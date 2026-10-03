@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:src\\components\\footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\src\\components\\projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:src\\components\\projects.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\src\\components\\whyme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:src\\components\\whyme.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|e:\\svn project\\git repository\\my-portfolio\\src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B54EB75C-8837-A311-8CF3-136923514AE1}|vipulportfolio.esproj|solutionrelative:src\\components\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-03T12:47:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.jsx",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-03T12:46:41.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navbar.jsx",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\Navbar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Navbar.jsx",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\Navbar.jsx",
+              "RelativeToolTip": "src\\components\\Navbar.jsx",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwGMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-03T12:44:23.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\Footer.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Footer.jsx",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\Footer.jsx",
+              "RelativeToolTip": "src\\components\\Footer.jsx",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAqwHAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-03T12:43:08.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WhyMe.jsx",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\WhyMe.jsx",
+              "RelativeDocumentMoniker": "src\\components\\WhyMe.jsx",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\WhyMe.jsx",
+              "RelativeToolTip": "src\\components\\WhyMe.jsx",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwH0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-03T12:15:13.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projects.jsx",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\Projects.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Projects.jsx",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\Projects.jsx",
+              "RelativeToolTip": "src\\components\\Projects.jsx",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAqwMgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-03T12:13:44.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAADQCAAAAAAAAAAASwEMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-03T12:09:31.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.jsx",
+              "DocumentMoniker": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\About.jsx",
+              "RelativeDocumentMoniker": "src\\components\\About.jsx",
+              "ToolTip": "E:\\SVN PROJECT\\GIT Repository\\my-portfolio\\src\\components\\About.jsx",
+              "RelativeToolTip": "src\\components\\About.jsx",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwHwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-03T11:22:14.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

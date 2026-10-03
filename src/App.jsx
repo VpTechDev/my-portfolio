@@ -1,33 +1,41 @@
 import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
+import Home from "./components/Home";
 import About from "./components/About";
+import Services from "./components/Services";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
-import Experience from "./components/Experience";
-import Services from "./components/Services";
+import WhyMe from "./components/WhyMe";
 import Contact from "./components/Contact";
-
-import "./App.css";
+import Footer from "./components/Footer";
+import "./index.css";
 
 function App() {
     return (
-        <>
+        <div className="app">
             <Navbar />
 
             <main>
-                <Hero />
+                <Home />
                 <About />
+                <Services />
                 <Skills />
                 <Projects />
-                <Experience />
-                <Services />
+                <WhyMe />
                 <Contact />
             </main>
 
-            <footer className="footer">
-                <p>© 2026 VipulPortfolio. All Rights Reserved.</p>
-            </footer>
-        </>
+            <Footer />
+
+            <a
+                href="https://wa.me/919660650819"
+                target="_blank"
+                rel="noreferrer"
+                className="whatsapp-float"
+                aria-label="Contact on WhatsApp"
+            >
+                <span>W</span>
+            </a>
+        </div>
     );
 }
 

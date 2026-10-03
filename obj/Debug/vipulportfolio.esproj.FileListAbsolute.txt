@@ -1,1 +1,2 @@
 E:\SVN PROJECT\VIPUL\VipulPortfolio\obj\Debug\vipulportfolio.esproj.CoreCompileInputs.cache
+E:\SVN PROJECT\GIT Repository\my-portfolio\obj\Debug\vipulportfolio.esproj.CoreCompileInputs.cache
