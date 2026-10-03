@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="vipulportfolio.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
